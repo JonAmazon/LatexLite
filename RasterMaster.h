@@ -2,7 +2,7 @@
 #include <cstdio>
 #include "Glyph.h"
 
-#define RASTER_AREA_SIZE 128
+#define RASTER_AREA_SIZE 256
 
 class GlyphRasterMaster
 {
